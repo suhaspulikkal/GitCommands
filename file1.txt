@@ -1,5 +1,15 @@
-git status
-git checkout text1.txt // To rundo the changes
-git add .
-git rm --cached -r . //to remove the files staged as added
-git log
+$ git status
+$ git checkout text1.txt // To rundo the changes
+$ git add .
+$ git rm --cached -r . //to remove the files staged as added
+$ git log
+
+$ .gitignore //create this file and include the files that has to be exculded
+
+when added or staged the files included in gitignore will not be shown
+
+To push the local git repository to remote repository we can use the below code
+
+$ git remote add origin https://github.com/suhaspulikkal/GitignoreConcept.git
+
+$ git push -u origin master
