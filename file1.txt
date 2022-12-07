@@ -1,0 +1,5 @@
+git status
+git checkout text1.txt // To rundo the changes
+git add .
+git rm --cached -r . //to remove the files staged as added
+git log
