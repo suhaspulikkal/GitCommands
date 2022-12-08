@@ -13,3 +13,11 @@ To push the local git repository to remote repository we can use the below code
 $ git remote add origin https://github.com/suhaspulikkal/GitignoreConcept.git
 
 $ git push -u origin master
+
+$ git reset --soft HEAD~1 to remove the commits by 1 decriment
+
+$ git remote 
+
+$ git remote --v
+
+$ git remote remove origin
