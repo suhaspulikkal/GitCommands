@@ -21,3 +21,18 @@ $ git remote
 $ git remote --v
 
 $ git remote remove origin
+
+$ rm -rf .git
+
+$ rm -rf cloneFolderName
+
+$ git branch alien-plot(the branch name) // to creata a branch
+
+$ git branh // to see the list of branches 
+
+$ git checkout branchName //to switch between branches
+
+$ git merge branchName //to merge the alient plot to the main branch
+
+$ :q! //to close the merge screen
+
